@@ -125,14 +125,17 @@ Logging: Enabled
 
 ## Screenshots
 
-### Wazuh Dashboard
-![Wazuh Dashboard](screenshots/wazuh1.jpg)
+### pfSense Dashboard
+![Wazuh Dashboard](screenshots/pfsense.jpg)
 
-### Active Agents
-![Active Agents](screenshots/wazuh2.jpg)
+### Firewall Rules
+![Active Agents](screenshots/rule.jpg)
 
-### Security Alerts
-![Security Alerts](screenshots/wazuh3.jpg)
+### Sysmon Logs
+![Active Agents](screenshots/sysmon.jpg)
+
+###  Apache2 Web Server 
+![Security Alerts](screenshots/apache.jpg)
 
 ## Author
 
