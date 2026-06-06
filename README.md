@@ -131,7 +131,7 @@ Logging: Enabled
 ### Firewall Rules
 ![Active Agents](screenshots/rule.jpg)
 
-### Sysmon Logs
+### System Logs
 ![Active Agents](screenshots/sysmon.jpg)
 
 ###  Apache2 Web Server 
